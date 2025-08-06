@@ -1,4 +1,4 @@
-package com.aseel.quizapp.model;
+package com.aseel.questionservice.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

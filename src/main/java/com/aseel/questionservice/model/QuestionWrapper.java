@@ -1,8 +1,10 @@
-package com.aseel.quizapp.model;
+package com.aseel.questionservice.model;
 
 import lombok.Data;
+import lombok.NoArgsConstructor;
 
 @Data
+@NoArgsConstructor
 public class QuestionWrapper {
 
     private Integer id;
